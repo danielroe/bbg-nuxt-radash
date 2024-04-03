@@ -7,7 +7,7 @@
 Install `nuxt-radash` as development dependency:
 
 ```bash
-npm i nuxt-radash -D
+npx nuxi@latest module add radash
 ```
 
 Add it to the `modules` section of your `nuxt.config`:
